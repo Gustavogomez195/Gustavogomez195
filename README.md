@@ -1,5 +1,4 @@
-Hello World 👋 I'm Gustavo !
-# 💫 About Me:
+# 💫Hello World 👋 I'm Gustavo !
 I am a passionate frontend programmer in constant pursuit of knowledge and excellence in the world of web development<br>🔭 Currently, I am looking for a job<br>🌱I am currently working with React<br>
 
 
